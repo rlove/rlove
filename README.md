@@ -35,7 +35,7 @@
        - [EventBridge](https://aws.amazon.com/eventbridge)
     - [GitHub Actions](https://docs.github.com/en/actions) 
     - [GitHub Apps](https://docs.github.com/en/developers/apps) 
--💻Some of the Open Source Projects I have contributed too
+- 💻Some of the Open Source Projects I have contributed too
    - [Abbrevia](https://github.com/TurboPack/Abbrevia) - When it was on source forge
    - [DUnitX](https://github.com/VSoftTechnologies/DUnitX)
    - [utPLSQL](https://github.com/utPLSQL/utPLSQL)
