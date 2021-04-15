@@ -1,0 +1,44 @@
+- 👋 Hi, I’m Robert Love - @rlove
+- 👀 I’m interested in Architecture Design that supports building secure, reliable, fast, low operation cost, and mantainable code.
+- My current building materials (always looking)
+  - Tools 🔨
+    - [Visual Studio]() ( C# )
+    - [Visual Studio Code]() ( TypeScript, JavaScript, Terraform, Powershell )
+    - [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+    - [Windows Terminal](https://github.com/microsoft/terminal)
+    - [Powershell](https://docs.microsoft.com/en-us/powershell/)
+    - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))    
+    - [Beyond Compare](https://www.scootersoftware.com/)
+  - Languages 💻
+    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Lambda, Tests, team tooling
+    - [TypeScript](https://www.typescriptlang.org/) & [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Browser & GitHub Action code
+    - [Terraform](https://www.terraform.io/)  - IaC made easy
+    - [Delphi](https://www.embarcadero.com/products/delphi) -Maintance on legacy code only
+  - Frameworks 📐
+    - [Angular](https://angular.io/) - Amazingly simple way to build complexty dynamic front ends.
+    - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) 
+    - Testing
+      - [xUnit](https://xunit.net/) - .NET testing library of choice
+      - [SpecFlow](https://specflow.org/) - Behavior Driven Development (BDD)
+      - [Selenium](https://www.selenium.dev/) - Browser Test Automation
+      - [Shouldly](https://github.com/shouldly/shouldly) - Assertion Library
+   - Platform [AWS](https://aws.amazon.com/)
+       - [Lambda](https://aws.amazon.com/lambda/)
+       - [Aurora](https://aws.amazon.com/rds/aurora/)
+       - [DynamoDB](https://aws.amazon.com/dynamodb)     
+       - [ElastiCache](https://aws.amazon.com/elasticache)
+       - [S3](https://aws.amazon.com/s3/)
+       - [Step Functions](https://aws.amazon.com/step-functions/)
+       - [DynamoDB](https://aws.amazon.com/dynamodb)
+       - [SQS](https://aws.amazon.com/sqs/) / [SNS](https://aws.amazon.com/sns/)
+       - [API Gateway](https://aws.amazon.com/api-gateway/)
+       - [EventBridge](https://aws.amazon.com/eventbridge)
+    - [GitHub Actions](https://docs.github.com/en/actions) 
+    - [GitHub Apps](https://docs.github.com/en/developers/apps) 
+-💻Some of the Open Source Projects I have contributed too
+   - [Abbrevia](https://github.com/TurboPack/Abbrevia) - When it was on source forge
+   - [DUnitX](https://github.com/VSoftTechnologies/DUnitX)
+   - [utPLSQL](https://github.com/utPLSQL/utPLSQL)
+   
+
+
