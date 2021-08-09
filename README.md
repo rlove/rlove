@@ -13,7 +13,7 @@
     - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Lambda, Tests, team tooling
     - [TypeScript](https://www.typescriptlang.org/) & [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Browser & GitHub Action code
     - [Terraform](https://www.terraform.io/)  - IaC made easy
-    - [Delphi](https://www.embarcadero.com/products/delphi) -Maintance on legacy code only
+    - [Delphi](https://www.embarcadero.com/products/delphi) -Maintenance on legacy code only
   - Frameworks 📐
     - [Angular](https://angular.io/) - Amazingly simple way to build complexty dynamic front ends.
     - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) 
