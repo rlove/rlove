@@ -1,18 +1,19 @@
 - 👋 Hi, I’m Robert Love  
+- 📰 My Blog can be found at [RobertLove.dev](https://robertlove.dev)
 - 👀 I’m interested in Architecture Design that supports building secure, reliable, fast, low operation cost, and mantainable code.
 - My current building materials (always looking)
   - Tools 🔨
-    - [Visual Studio]() ( C# )
-    - [Visual Studio Code]() ( TypeScript, JavaScript, Terraform, Powershell )
+    - [Visual Studio Code](https://code.visualstudio.com/) ( C#, TypeScript, JavaScript, Terraform, Powershell, Go, + more )
+    - [Visual Studio](https://visualstudio.microsoft.com/) ( C# )
     - [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
     - [Windows Terminal](https://github.com/microsoft/terminal)
-    - [Powershell](https://docs.microsoft.com/en-us/powershell/)
-    - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))    
     - [Beyond Compare](https://www.scootersoftware.com/)
   - Languages 💻
+    - [Go](https://go.dev/) - Personal Projects
     - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Lambda, Tests, team tooling
     - [TypeScript](https://www.typescriptlang.org/) & [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Browser & GitHub Action code
     - [Terraform](https://www.terraform.io/)  - IaC made easy
+    - [Powershell](https://docs.microsoft.com/en-us/powershell/) & [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) Scripts
     - [Delphi](https://www.embarcadero.com/products/delphi) -Maintenance on legacy code only
   - Frameworks 📐
     - [Angular](https://angular.io/) - Amazingly simple way to build complexty dynamic front ends.
